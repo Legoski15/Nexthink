@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.nexthink.com/</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/overview</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/library/</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/integrations/</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/legal/</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/libraryclassic/</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/nexthink-infinity-platform</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/expansion-products</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/getting-started</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/key-data-platform-concepts</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/overview-collector</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/the-web-interface</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/search</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/digital-experience</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/remote-actions</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/nexthink-query-language-nql</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/device-view</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/alerts-and-diagnostics</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/library</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/integrations</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/main-use-cases</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/nql-data-types</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/installing-collector</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/installing-collector-on-windows</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/collector-configuration-tool</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/glossary-and-references</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/from-finder-to-web</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/glossary</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/user-guide</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/investigations</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/nql-data-model</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/ratings</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/creating-a-profile</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/checklists</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/api-credentials</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/remote-actions-api</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/nql-syntax</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/reporting-the-url-of-http-web-requests</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/windows-collector-proxy-support</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/collector-msi-parameters-reference-table</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/live-dashboards</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/custom-fields</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/from-categories-to-custom-fields-and-ratings</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/manage-alerts</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/campaigns</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/from-finder-campaigns-to-web-campaigns</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/digital-experience-dex-score</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/from-dex-score-v2-to-v3</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/from-finder-remote-actions-to-web-remote-actions</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/connector-for-azure-active-directory</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/entities-hierarchies-to-rule-based-organization</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/investigations-visual-editor</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/investigations-nql-editor</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/administration</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/content-management</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/adding-users</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/gdpr-retrieving-or-anonymizing-personal-data</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/manage-remote-actions</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/single-sign-on</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/creating-a-profile-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/amplify</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/creating-a-service-finder-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/specifying-url-paths-of-web-based-services-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/installing-the-web-browser-extension</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/configuring-collector-level-anonymization</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/glossary-focus-time</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/data-export</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/webhooks</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/alerts-nql-examples</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/manage-campaigns</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/getting-started-with-campaigns</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/digital-experience-score</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/product-configuration</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/removing-devices-and-events</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/getting-started-with-remote-actions</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/remote-actions-nql-examples</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/scenarios-for-remote-actions</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/application-control-and-remote-actions</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/audit-trail</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/triggering-remote-actions-via-their-api</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/amplify-installation-and-configuration</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/amplify-extension-deployment</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/using-finder-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/monitoring-it-services-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/service-errors-and-warnings</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/following-the-evolution-of-a-service-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/data-enricher</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/webhooks-manage-credentials</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/types-of-campaigns</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/engage-types-of-questions</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/campaigns-controlling-the-flow-of-questions</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/campaigns-nql-examples</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/branding-campaigns</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/triggering-a-campaign</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/limiting-the-reception-rate-of-campaigns</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/manage-applications</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/connector-for-microsoft-teams</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/connector-for-zoom</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/getting-started-with-digital-experience</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/system-configuration</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/maintenance-operations</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/security</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/api-and-integrations</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/integrating-with-nexthink</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/list-engines-api</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/triggering-remote-action-manually-finder-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/amplify-for-servicenow-agent-workspace</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/amplify-for-servicenow-operations-workspace</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/search-and-information-display</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/glossary-service</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/observing-service-performance-finder-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/custom-dashboards</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/integrations-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/glossary-user</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/glossary-destination</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/data-enricher-installation-on-windows-server</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/sftp-server</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/applications</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/manage-applications-general</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/manage-applications-key-pages</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/manage-applications-transactions</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/manage-applications-licenses</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/manage-applications-thresholds</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/using-digital-experience</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/introducing-the-nxql-api</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/remote-actions-in-finder-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/observing-activity-users-devices-finder-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/analyzing-service-quality-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/glossary-device</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/glossary-executable</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/glossary-port</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/glossary-connection</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/visualizing-system-activity-with-finder-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/glossary-hierarchy</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/real-time-and-consolidated-service-data</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/viewing-network-connections-finder-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/viewing-web-requests-finder-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/hardware-requirements</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/data-enricher-dns-configuration-file</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/monitoring-applications-speed</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/nxql-api</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/properties-users-devices-with-finder-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/checking-and-comparing-ratings</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/finder-errors-tooltips</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/finder-warnings-tooltips</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/finder-activity-tooltips</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/finder-services-tooltips</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/session-performance</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/glossary-binary</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/glossary-application</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/glossary-object</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/planning-your-installation</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/monitoring-applications</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/monitoring-applications-web</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/monitoring-applications-adoption</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/monitoring-applications-reliability</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/monitoring-applications-monitoring-capabilities</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/monitoring-applications-aggregation-time-buckets</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/creating-an-investigation-with-finder-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/experience-optimization</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/rating-devices-and-users-with-scores</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/finder-tooltips-in-the-user-and-device-views</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/glossary-event</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/errors-and-warnings-for-devices-and-executions</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/memory-and-cpu-usage</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/glossary-execution</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/database-information-and-organization</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/glossary-session</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/configuring-session-performance-storage</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/nxql-tutorial</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/binary-paths</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/maximum-number-of-binaries</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/glossary-package</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/common-web-application-errors</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/editing-an-investigation-with-finder-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/application-not-responding-events</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/configuring-your-platform</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/engine-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/establishing-a-privacy-policy</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/nxql-data-model</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/expanding-investigations-time-frame-finder-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/keyboard-shortcuts-for-column-display-selection</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/overview-digital-experience-score</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/specifying-internal-networks-and-domains</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/engine-data-history</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/operational-data-sent-to-nexthink</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/__attachments/1546618187/NXQLDataModel-290422-1353.pdf?inst-v=09924ee7-03cd-4c69-a7fb-79e2763b6814</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/installing-finder-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.05</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/creating-a-metric-finder-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.05</priority>
+</url>
+<url>
+  <loc>https://docs.nexthink.com/platform/latest/monitoring-it-custom-metrics-finder-classic</loc>
+  <lastmod>2023-05-19T07:19:32+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+
+
+</urlset>
